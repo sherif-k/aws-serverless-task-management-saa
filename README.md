@@ -20,7 +20,7 @@ The entire application runs on AWS with no servers to manage.
 
 ## Architecture
 
-![Architecture Diagram](architecture/architecture-diagram.png)
+![Architecture Diagram](architecture-diagram.png)
 
 ## AWS Services Used
 
